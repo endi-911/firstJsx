@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <User firstName = "flogert" lastName="ciku"></User>
+      <User firstName = "flogert" lastName="cikeu"></User>
       <User firstName = "test" lastName = "test2"></User>
     </>
   )
